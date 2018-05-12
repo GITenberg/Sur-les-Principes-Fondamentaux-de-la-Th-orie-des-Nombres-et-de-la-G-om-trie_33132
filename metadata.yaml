@@ -14,6 +14,8 @@ creator:
     gutenberg_agent_id: '36230'
     url: http://www.gutenberg.org/2009/agents/36230
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/33132#Sur-les-Principes-Fondamentaux-de-la-Th-orie-des-Nombres-et-de-la-G-om-trie
 gutenberg_bookshelf:
 - Mathematics
 - FR Sciences et Techniques
